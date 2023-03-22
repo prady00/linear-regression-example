@@ -1,3 +1,3 @@
-# linear-regression-example
+# Linear Regression Example
 
-this repository corresponds to article - https://medium.com/@prady00/a-relook-at-linear-regression-8fa5e4147bd8
+This is sister repository for article - https://medium.com/@prady00/a-relook-at-linear-regression-8fa5e4147bd8
